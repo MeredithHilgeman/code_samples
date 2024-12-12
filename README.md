@@ -1,3 +1,3 @@
 # code_samples
 
-Random code samples whether connected to data or not 
+Random code samples not connected to data
